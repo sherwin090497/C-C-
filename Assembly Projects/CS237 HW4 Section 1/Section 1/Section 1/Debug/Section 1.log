@@ -1,0 +1,10 @@
+﻿  Assembling fib.asm...
+fib.asm(5): error A2111: conflicting parameter definition
+fib.asm(7): error A2008: syntax error : ptr
+fib.asm(16): error A2006: undefined symbol : multDigitOne
+fib.asm(17): error A2006: undefined symbol : multDigitOne
+fib.asm(26): error A2006: undefined symbol : ptrOutput
+fib.asm(38): error A2006: undefined symbol : ptrComma
+fib.asm(78): error A2006: undefined symbol : main
+fib.asm(78): error A2148: invalid symbol type in expression : main
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\fib.obj" /I "c:\Irvine" /W3 /errorReport:prompt  /Tafib.asm" exited with code 1.

@@ -1,0 +1,9 @@
+﻿  Point.cpp
+C:\C C++\CS320 Lab3\Lab 3\Lab 3\Point.cpp(16,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  TestDriver.cpp
+C:\C C++\CS320 Lab3\Lab 3\Lab 3\TestDriver.cpp(13,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\C C++\CS320 Lab3\Lab 3\Lab 3\TestDriver.cpp(13,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\C C++\CS320 Lab3\Lab 3\Lab 3\TestDriver.cpp(18,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\C C++\CS320 Lab3\Lab 3\Lab 3\TestDriver.cpp(18,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Lab 3.vcxproj -> C:\C C++\CS320 Lab3\Lab 3\Debug\Lab 3.exe

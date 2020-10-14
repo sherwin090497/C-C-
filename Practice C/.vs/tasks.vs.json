@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-PracticeTwo",
+      "appliesTo": "Practice C/PracticeTwo.cpp",
+      "type": "launch"
+    }
+  ]
+}

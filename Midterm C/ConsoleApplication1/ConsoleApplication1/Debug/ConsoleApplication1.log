@@ -1,0 +1,4 @@
+﻿  Midterm.cpp
+C:\C, C++\Midterm C\ConsoleApplication1\ConsoleApplication1\Midterm.cpp(6,21): error C2440: 'initializing': cannot convert from 'int' to 'int []'
+C:\C, C++\Midterm C\ConsoleApplication1\ConsoleApplication1\Midterm.cpp(6,16): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+C:\C, C++\Midterm C\ConsoleApplication1\ConsoleApplication1\Midterm.cpp(10,20): error C2109: subscript requires array or pointer type
